@@ -1,2 +1,6 @@
-# crudapp-rest-framework
-Python Django restframework. This project is a Web Application and web REST API. CRUD stand for ( Create, Retrieve, Update, Delete) This are the basic four operations. Which are executed on the database Models. And CRUD relative to the HTTP protocol’s POST, GET, PUT and DELETE ,which built on top of. 
+# CRUD operation Django Rest-framework
+
+### Here onwards we call DjangoRestframework as DRF
+### The APIView class is a base class for creating API views that handles the HTTP request and response logic.
+### It provides methods to handle various HTTP methods like GET, POST, PUT, DELETE etc.
+### The Response class is used to create HTTP responses from API views.
